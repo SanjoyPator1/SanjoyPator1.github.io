@@ -1,0 +1,58 @@
+body {
+  padding: 5;
+}
+
+img {
+  vertical-align: middle;
+  border-style: none;
+  padding: 5;
+}
+
+b, strong {
+  padding: initial;
+  text-align: right;
+}
+
+b, strong {
+  float: left;
+}
+
+b, strong {
+  float: left;
+}
+
+.col-md-6.offset-xl-0 {
+  align-self: center;
+}
+
+b, strong {
+  padding: 10px;
+  margin: 10px;
+}
+
+.text-center {
+  align-items: center;
+}
+
+b, strong {
+}
+
+#profile .jumbotron {
+  border-radius: 20px;
+  background-color: rgba(255,255,255,0.10);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+@media (min-width: 576px) {
+  profile .jumbotron {
+    padding: 20px;
+  }
+}
+
+@media (min-width: 576px) {
+  profile {
+    padding: 20px;
+  }
+}
+
