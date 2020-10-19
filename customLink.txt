@@ -1,0 +1,12 @@
+video link- embedded link youtube
+
+avaProjects
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LPDS9BQ-7oI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+rick and morty game -
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f_Gp1x7Lw5Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
